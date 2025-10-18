@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Background Music</title>
+</head>
+<body style="background-color: lightblue;">
+  <h2>Relax and Listen 🎶</h2>
+  <audio controls autoplay>
+    <source src="sample.mp3" type="audio/mpeg">
+    Your browser does not support audio playback.
+  </audio>
+</body>
+</html>
